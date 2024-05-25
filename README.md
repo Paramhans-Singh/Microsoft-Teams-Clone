@@ -12,6 +12,8 @@ This project is a clone of Microsoft Teams, providing functionalities for team c
 
 ## Microsoft Teams Website Preview 
 
+https://github.com/Paramhans-Singh/Microsoft-Teams-Clone/assets/101575816/54707471-1747-40ef-a68e-631824d644ea
+
 ## Technologies Used
 - **Frontend**: React.js, CSS, HTML
 - **Real-time Communication**: Socket.IO
